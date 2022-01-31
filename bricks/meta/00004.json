@@ -1,0 +1,15 @@
+{
+    "id" : "00004",
+    "Name" : "A assembly",
+    "Model name" : "",
+    "BOM" : [
+        { 
+            "position" : [0,0,0],
+            "child" : "00001"
+        },
+        { 
+            "position" : [10,10,0],
+            "child" : "00002"
+        }
+    ]
+}
